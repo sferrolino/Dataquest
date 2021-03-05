@@ -1,4 +1,4 @@
-Dataworks
+Dataworks - Intermediate Stream
 
 Week1 March 1-7 - Machine learning Fundamentals
   * Mission 1-3 Introduction to KNN  - Multivariate KNN
