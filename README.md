@@ -14,5 +14,32 @@ Includes:<br>
 - Commands and Descriptions<br>
 - Key Takeaways per Mission
 
+<b>Course Outline</b><br>
+-----------
 
+Week1 March 1-7 - Machine learning Fundamentals
+  * Mission 1-3 Introduction to KNN  - Multivariate KNN
+
+Week2 March 8-14 - Machine Learning Fundamentals
+  * Mission 4 & 5 Hyperparameter Opt - Cross Validation
+
+Week3 March 15-21 - Linear Regression for Machine Learning
+  * Mission 1 - 5 Linear regression model -  Processing and transforming 
+
+Week4 March 22-28 - Machine Learning Intermediate
+  * Mission 1 - 3 Logistic Regression - Multiclass Classifcation 
+
+Week5 March 29-April 4 - Machine Learning Intermediate
+  * Mission 4 - 6 Overfitting - K-means clustering
+
+Week6 April 5 - 11 Decision Trees
+  * Mission 1 - 4 Introduction to Decision Trees - Introduction to Random Forest
+
+Week7 April 12 - 18 Capstone
+  * 17 & 18 is showcase date
+    
+
+For Questions, please contact: <br>
+Sarah - sferrolino@ryerson.ca<br>
+Ky - ky.tran@ryerson.ca
 
