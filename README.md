@@ -17,26 +17,35 @@ Includes:<br>
 <b>Course Outline</b><br>
 -----------
 
-Week1 March 1-7 - Machine learning Fundamentals
-  * Mission 1-3 Introduction to KNN  - Multivariate KNN
+Week 1 March 1-7 - Machine learning Fundamentals (Step 6 – Course 1)<br>
+ o	Mission 1: Introduction to KNN  <br>
+ o	Mission 2: Evaluating Model Performance<br>
+ o	Mission 3: Multivariate KNN<br><br>
+Week 2 March 8-14 - Machine Learning Fundamentals (Step 6 – Course 1)<br>
+ o	Mission 4: Hyperparameter Optimization<br>
+ o	Mission 5: Cross Validation<br><br>
+Week 3 March 15-21 - Linear Regression for Machine Learning (Step 6 – Course 4)<br>
+ o	Mission 1: Linear Regression Model<br>
+ o	Mission 2: Feature Selection<br>
+ o	Mission 3: Gradient Descent<br>
+ o	Mission 4: Ordinary Least Squares<br>
+ o	Mission 5: Processing and Transforming Features<br>
+Week 4 March 22-28 - Machine Learning Intermediate (Step 6 – Course 5)<br>
+ o	Mission 1: Logistic Regression<br>
+ o	Mission 2: Introduction to evaluating binary classifiers<br>
+ o	Mission 3: Multiclass Classification <br><br>
+Week 5 March 29-April 4 - Machine Learning Intermediate (Step 6 – Course 5)<br>
+ o	Mission 4: Overfitting<br>
+ o	Mission 5: Clustering basics<br>
+ o	Mission 6: K-means clustering<br><br>
+Week 6 April 5 - 11 Decision Trees (Step 6 – Course 6)<br>
+ o	Mission 1: Introduction to Decision Trees<br>
+ o	Mission 2: Building a Decision Tree<br>
+ o	Mission 3: Applying Decision Trees<br>
+ o	Mission 4: Introduction to Random Forests<br><br>
+Week 7 April 12 - 18 Capstone Project<br>
+ o	17 & 18 – Showcase Date<br><br>
 
-Week2 March 8-14 - Machine Learning Fundamentals
-  * Mission 4 & 5 Hyperparameter Opt - Cross Validation
-
-Week3 March 15-21 - Linear Regression for Machine Learning
-  * Mission 1 - 5 Linear regression model -  Processing and transforming 
-
-Week4 March 22-28 - Machine Learning Intermediate
-  * Mission 1 - 3 Logistic Regression - Multiclass Classifcation 
-
-Week5 March 29-April 4 - Machine Learning Intermediate
-  * Mission 4 - 6 Overfitting - K-means clustering
-
-Week6 April 5 - 11 Decision Trees
-  * Mission 1 - 4 Introduction to Decision Trees - Introduction to Random Forest
-
-Week7 April 12 - 18 Capstone
-  * 17 & 18 is showcase date
     
 
 For Questions, please contact: <br>
