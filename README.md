@@ -29,7 +29,7 @@ Week 3 March 15-21 - Linear Regression for Machine Learning (Step 6 – Course 4
  o	Mission 2: Feature Selection<br>
  o	Mission 3: Gradient Descent<br>
  o	Mission 4: Ordinary Least Squares<br>
- o	Mission 5: Processing and Transforming Features<br>
+ o	Mission 5: Processing and Transforming Features<br><br>
 Week 4 March 22-28 - Machine Learning Intermediate (Step 6 – Course 5)<br>
  o	Mission 1: Logistic Regression<br>
  o	Mission 2: Introduction to evaluating binary classifiers<br>
