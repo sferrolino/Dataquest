@@ -1,6 +1,6 @@
 #Dataquest Week 2 Commands - Intermediate Stream
 
-#### MISSION 4: Hyperparameter Optimization ####
+################################################ MISSION 4: Hyperparameter Optimization ################################################
 #reading csv files recap
 train_df = pd.read_csv('dc_airbnb_train.csv')
 
@@ -33,7 +33,7 @@ for k,mse in enumerate(mse_values): #for index and mse, iterate through list
 #dictionary[key] = value
 two_hyp_mse[two_lowest_k] = two_lowest_mse
     
-#### MISSION 5: Cross Validation ####
+################################################ MISSION 5: Cross Validation ################################################
 #replacing rows in column - replacing special char with whitespace for easier readability
 stripped_commas = dc_listings['price'].str.replace(',', '')
 stripped_dollars = stripped_commas.str.replace('$', '')
