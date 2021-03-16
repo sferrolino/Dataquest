@@ -7,7 +7,7 @@ import numpy as np
 #We can perform basic operations on rows/columns like selecting, deleting, adding, and renaming.
 import pandas as pd
 
-##### MISSION 1: Intro to K-Nearest Neighbors #####
+################################################ MISSION 1: Intro to K-Nearest Neighbors ################################################
 #reading csv file
 dc_listings = pd.read_csv ('dc_airbnb.csv')
 #print first 4 columns (1-4), OMIT index 0 b/c it's the header
@@ -47,7 +47,7 @@ mean_price = dc_listings[0:5]['price'].mean()
 #create a local copy of a data frame (dc_listings)
 temp_df = dc_listings.copy()
 
-##### MISSION 2: Evaluating Model Performance #####
+################################################ MISSION 2: Evaluating Model Performance ################################################
 #using what we've learned in mission 1 to create a predict_price(new_listing) function
 #this function is meant to represent a machine learning model, outputting the prediction based on input
 def predict_price(new_listing):
@@ -74,7 +74,7 @@ mse = test_df['squared_error'].mean()
 rmse = np.sqrt(mse) 
 rmse = mse**(1/2)
 
-##### MISSION 3: Multivariate K-Nearest Neighbors #####
+################################################ MISSION 3: Multivariate K-Nearest Neighbors ################################################
 
 #return the number of non-null values in each column
 dc_listings.info()
