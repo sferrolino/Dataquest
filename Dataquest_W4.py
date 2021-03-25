@@ -161,4 +161,3 @@ for origin in unique_origins:
 #Classify each observation in the test set using the testing_probs
 predicted_origins = testing_probs.idxmax(axis=1)
 
-
